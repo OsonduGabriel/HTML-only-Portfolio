@@ -1,1 +1,1 @@
-link : https://app.netlify.com/projects/htmlonly-portfolio/
+link : https://htmlonly-portfolio.netlify.app/
